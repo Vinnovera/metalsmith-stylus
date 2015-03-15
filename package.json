@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/esundahl/metalsmith-stylus",
   "dependencies": {
-    "nib": "^1.0.3",
     "stylus": "^0.47.1",
     "minimatch": "^0.3.0"
   },
